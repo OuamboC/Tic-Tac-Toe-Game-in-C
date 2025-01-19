@@ -42,16 +42,9 @@ If you're on Windows, use:
 ```bash
 SimpleTicTacToe.exe
 ```
-### Running the Web UI
-To run the web-based UI, open the index.html file in your web browser.
-
 ### How to Play
 
 - The game will prompt Player X and Player O to enter their moves.
 - Enter the row and column numbers to place your mark on the board.
 - The game will check for a win or draw after each move and announce the result.
 
-###
-You can test my logic by clicking the link [here](https://ouamboc.github.io/Tic-Tac-Toe-Game-in-C/).
-
-Enjoy the game!
