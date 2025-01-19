@@ -42,6 +42,8 @@ If you're on Windows, use:
 ```bash
 tic_tac_toe.exe
 ```
+## Running the Web UI
+To run the web-based UI, open the index.html file in your web browser.
 
 ## How to Play
 
